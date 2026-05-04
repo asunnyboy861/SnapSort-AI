@@ -110,7 +110,7 @@ struct SettingsView: View {
                 Text("1.0.0")
                     .foregroundStyle(.secondary)
             }
-            Link(destination: URL(string: "https://zzoutuo.com/snapsort-ai/privacy")!) {
+            Link(destination: URL(string: "https://asunnyboy861.github.io/SnapSort-AI/privacy.html")!) {
                 HStack {
                     Text("Privacy Policy")
                     Spacer()
@@ -118,7 +118,7 @@ struct SettingsView: View {
                         .foregroundStyle(.secondary)
                 }
             }
-            Link(destination: URL(string: "https://zzoutuo.com/snapsort-ai/support")!) {
+            Link(destination: URL(string: "https://asunnyboy861.github.io/SnapSort-AI/support.html")!) {
                 HStack {
                     Text("Support")
                     Spacer()
